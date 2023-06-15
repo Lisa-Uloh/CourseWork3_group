@@ -1,8 +1,8 @@
-var cacheName = "petstore-v1";
+var cacheName = "Subject-v1";
 var cacheFiles = [
     'index.html',
     'js/index.js',
-    'petstore.webmanifest',
+    'subject.webmanifest',
     'image/art&craft.jpeg',
     'image/coding.jpg',
     'image/cooking.jpg',
