@@ -1,0 +1,19 @@
+{
+    "name" : "My Subjects PWA",
+    "origin" : "*",
+    "short_name": "activities",
+    "start_url" : "index.html",
+    "methods" :"GET, HEAD, PUT, PATCH, POST, DELETE",
+    "description" : "After class activities for kids",
+    "icons": [
+        {
+            "src" : "image/icon-store-512.png",
+            "sizes": "512X512",
+            "type": "image/png"
+        }
+    ],
+    "background_color" : "#B12A34",
+    "display" : "fullscreen"
+
+
+}
